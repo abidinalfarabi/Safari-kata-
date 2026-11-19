@@ -1,0 +1,6 @@
+{
+  "name": "Safari Kata 3D",
+  "description": "Game petualangan balap 3D edukatif dengan karakter hewan lucu yang berevolusi, kustomisasi mobil dan motor, misi kosa kata Arab dan Inggris, 200 level rintangan, reward harian, papan peringkat, dan mode multiplayer langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
